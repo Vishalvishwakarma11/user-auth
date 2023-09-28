@@ -1,7 +1,11 @@
 const App = () => {
   return (
     <>
-      <div>App</div>
+      <div>
+        <div>
+          Main App
+        </div>
+      </div>
     </>
   );
 };
